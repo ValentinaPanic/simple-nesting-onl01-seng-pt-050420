@@ -83,7 +83,7 @@ def adding_matz
         }
      }
 
-:yukihiro_matsumoto =>[:known_for] = "Ruby"
+yukihiro_matsumoto[:known_for] = "Ruby"
 
 end
 
